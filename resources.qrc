@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/base_map_loader" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
